@@ -1,3 +1,2 @@
-<h1>Juego Amigo Secreto</h1>
+<h1>Prueba Git Hub</h1>
 -En construccion.
--El autor no entiende como interactuar codigo JS con HTML.
